@@ -17,24 +17,24 @@ I'm **Denise Medeiros**, QA & Test Engineer with +20 years of experience 🚀
 
 🛠️ **Tech Stack**
 
-- **Languages:** Java · C# · SwiftUI · Python · JavaScript
-- **Frameworks & Tools:** Selenium · Appium · Postman · Newman · Azure DevOps · AWS Lambda · Home Assistant
-- **Testing:** Unit Tests (xUnit, NUnit), BDD with Cucumber, Automated Regression, Mobile Testing (iOS & Android)
+- **Languages:** Java · C# · SwiftUI · Python · JavaScript  
+- **Frameworks & Tools:** Selenium · Appium · Postman · Newman · Azure DevOps · AWS Lambda · Home Assistant  
+- **Testing:** Unit Tests (xUnit, NUnit), BDD with Cucumber, Automated Regression, Mobile Testing (iOS & Android)  
 
 ---
 
 📊 **GitHub Stats**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denymedeiros&show_icons=true&theme=radical&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denymedeiros&layout=compact&langs_count=10&theme=radical&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denymedeiros&show_icons=true&theme=radical&count_private=true&rank_icon=github&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denymedeiros&layout=compact&langs_count=10&theme=radical&hide=html,css&cache_seconds=3600"/>
 </div>
 
 ---
 
 🌱 **Currently Learning**
-- SwiftUI (iOS Development)
-- .NET C# with dependency injection & mocks
-- 3D visualization for architecture and design (SketchUp, V-Ray, Twinmotion)
+- SwiftUI (iOS Development)  
+- .NET C# with dependency injection & mocks  
+- 3D visualization for architecture and design (SketchUp, V-Ray, Twinmotion)  
 
 ---
 
