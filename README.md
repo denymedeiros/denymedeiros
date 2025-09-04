@@ -3,8 +3,8 @@ I'm Denise Medeiros. It's nice to have you here!! 😊
 
 <div align="center">
   <a href="https://github.com/denymedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denymedeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denymedeiros&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denymedeiros&show_icons=true&theme=radical&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denymedeiros&layout=compact&langs_count=10&theme=radical&hide=html,css"/>
 </div>
 
   ![Snake animation](https://github.com/denymedeiros/denymedeiros/blob/output/github-contribution-grid-snake.svg)
