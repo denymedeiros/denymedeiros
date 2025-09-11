@@ -25,8 +25,8 @@ I'm **Denise Medeiros**, QA & Test Engineer with +20 years of experience 🚀
 
 📊 **GitHub Stats**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denymedeiros&show_icons=true&theme=radical&count_private=true&rank_icon=github&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denymedeiros&layout=compact&langs_count=10&theme=radical&hide=html,css&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats-eight-rose-69.vercel.app/api?username=denymedeiros&show_icons=true&theme=radical&count_private=true&rank_icon=github&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-eight-rose-69.vercel.app/api/top-langs/?username=denymedeiros&layout=compact&langs_count=10&theme=radical&hide=html,css&cache_seconds=1800"/>
 </div>
 
 ---
