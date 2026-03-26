@@ -6,7 +6,7 @@ I'm **Denise Medeiros**, QA & Test Engineer with +20 years of experience 🚀
 
 💡 **About me**
 - 🔭 Currently working on **automation frameworks, mobile & web testing**
-- 🌱 Learning **iOS development (SwiftUI) and C# test simulations**
+- 📱 **iOS development (SwiftUI) and C# test simulations**
 - 👯 Open to collaborate on **open-source QA/testing projects**
 - 💬 Ask me about **QA strategies, test automation, backend/frontend testing**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/denise-medeiros/)
@@ -52,7 +52,7 @@ I'm **Denise Medeiros**, QA & Test Engineer with +20 years of experience 🚀
 
 ---
 
-🌱 **Currently Learning**
+🌱 **Currently Improving Skills**
 - SwiftUI (iOS Development)  
 - .NET C# with dependency injection & mocks  
 - 3D visualization for architecture and design (SketchUp, V-Ray, Twinmotion)  
